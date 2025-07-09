@@ -44,7 +44,7 @@ This project uses a structured delivery operations dataset that captures real-ti
 ### Data Source:
 
 - Publicly available dataset from **Kaggle**  
-- [Kaggle Link: Last-Mile Delivery Dataset](https://www.kaggle.com/datasets/shrutibhargava94/food-delivery-time)
+- [Kaggle Link: Last-Mile Delivery Dataset](https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset)
 
 ---
 
