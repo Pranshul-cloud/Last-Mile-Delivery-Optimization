@@ -1,5 +1,3 @@
-# Last-Mile-Delivery-Optimization
-
 # 📦 Last-Mile Delivery Optimization – Business Cost Reduction Project
 
 ### A data-driven initiative to reduce last-mile delivery costs and delays by improving routing, rider utilization, and zone performance using real-world delivery data.
