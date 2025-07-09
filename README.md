@@ -52,7 +52,8 @@ This project uses a structured delivery operations dataset that captures real-ti
 
 This project integrates a mix of analytical tools and business techniques to uncover insights:
 
-- **SQL** – Querying and aggregating delivery and performance data  
-- **Excel** – Data exploration, hypothesis modeling, cost estimation  
-- **Power BI** – Visual dashboards for delivery patterns, delays, and cost trends  
-- **Business Thinking** – Strategic diagnosis of cost drivers and operational inefficiencies  
+- **Excel** – Data cleaning and creation of derived metrics through calculated fields  
+- **SQL** – Data analysis and performance aggregation  
+- **Power BI** – Visualization, filtering, and interactive dashboards  
+- **Microsoft Word** – Recommendation report and business documentation  
+- **Business Thinking** – Strategic diagnosis of cost drivers and operational inefficiencies 
