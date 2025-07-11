@@ -98,7 +98,7 @@ This project integrates a mix of analytical tools and business techniques to unc
 1. **Data Collection & Preparation**  
    - Ingested raw delivery, traffic, weather, and agent datasets  
    - Addressed missing values, standardized zone naming, and synchronized timestamps  
-   - Cleaned files are archived in `/1_data/1.1_clean_data/`
+   - Cleaned files are archived in `/1_data/1.1_clean_data/`(https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/01_data/1.1_last_mile_delivery_cleaned.csv)
 
 2. **Business Problem Framing**  
    - Articulated eight high‑value questions focusing on delay sources, agent dynamics, and environmental effects  
