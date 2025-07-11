@@ -64,7 +64,7 @@ This project integrates a mix of analytical tools and business techniques to unc
 
 Organized into three main components: datasets, SQL analysis, and final executive reporting.
 
-📁 [`1_data/`](./1_data/)  
+📁 [`1_data/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/01_data)  
 Contains all datasets used in the analysis. Cleaned and raw data are stored separately.  
 Includes 100-row sample files for preview. Full datasets are stored but may not preview on GitHub due to size.
 
