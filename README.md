@@ -70,7 +70,7 @@ This project integrates a mix of analytical tools and business techniques to unc
     Holds original unprocessed delivery, agent, and location data (for transparency and reproducibility).
 
 
-- [`2_sql_analysis/`](./2_sql_analysis)  
+- [`2_sql_analysis/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/02_sql_analysis)  
   All query logic and documentation used to derive insights from the dataset.
 
   - [`2.1_business_questions/`](./2_sql_analysis/2.1_business_questions)  
