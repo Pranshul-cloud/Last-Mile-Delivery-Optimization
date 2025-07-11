@@ -83,7 +83,7 @@ Contains business question definitions and all SQL queries used to explore the d
 Includes all reporting deliverables and visuals created for stakeholders.
 
 - [`3.1_dashboard/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.1_last_mile_dashboard.pbix): Power BI files used to build key delivery and performance visuals  
-- [`3.2_dashboard_overview_screenshots/`](./3_executive_report/3.2_dashboard_overview_screenshots/): Static dashboard screenshots for quick GitHub preview  
+- [`3.2_dashboard_overview_screenshots/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.2_dashboard_full_view.png): Static dashboard screenshots for quick GitHub preview  
 - [`3.3_insights_and_recommendations/`](./3_executive_report/3.3_insights_and_recommendations/): Final PDF report with executive summary, insights, and business recommendations
     
 ---
