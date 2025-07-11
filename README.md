@@ -112,3 +112,8 @@ This project integrates a mix of analytical tools and business techniques to unc
    - Selected four questions with the greatest business impact and stakeholder relevance (e.g., semi‑urban delays, traffic + weather effects, idle‑time peaks)  
    - Generated supporting charts and tables for delivery duration, idle‑time trends, and zone‑level comparisons  
    - Dashboard source files and exported visuals are available in `/3_executive_report/3.1_dashboard/`
+    
+5. **Insights & Recommendations Documentation**  
+   - Synthesized key findings into concise insights and strategic recommendations  
+   - Compiled and formatted the final report in `/3_executive_report/3.3_insights_and_recommendations/`  
+   - Ensured alignment with stakeholder objectives and clarity for decision‑making
