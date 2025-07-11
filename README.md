@@ -56,4 +56,38 @@ This project integrates a mix of analytical tools and business techniques to unc
 - **SQL** – Data analysis and performance aggregation  
 - **Power BI** – Visualization, filtering, and interactive dashboards  
 - **Microsoft Word** – Recommendation report and business documentation  
-- **Business Thinking** – Strategic diagnosis of cost drivers and operational inefficiencies 
+- **Business Thinking** – Strategic diagnosis of cost drivers and operational inefficiencies
+
+- ## 📁 Project Structure
+
+- [`1_data/`](./1_data)  
+  Contains all datasets used in the analysis, separated into raw and cleaned versions.
+
+  - [`1.1_clean_data/`](./1_data/1.1_clean_data)  
+    Includes cleaned and pre-processed data files ready for analysis.
+
+  - [`1.2_raw_data/`](./1_data/1.2_raw_data)  
+    Holds original unprocessed delivery, agent, and location data (for transparency and reproducibility).
+
+
+- [`2_sql_analysis/`](./2_sql_analysis)  
+  All query logic and documentation used to derive insights from the dataset.
+
+  - [`2.1_business_questions/`](./2_sql_analysis/2.1_business_questions)  
+    PDF or Markdown file outlining business problems related to delivery delays, agent performance, traffic impact, etc.
+
+  - [`2.2_sql_queries/`](./2_sql_analysis/2.2_sql_queries)  
+    SQL files solving each business question through joins, aggregations, filters, and time-based analysis.
+
+
+- [`3_executive_report/`](./3_executive_report)  
+  Final outputs and reporting files to communicate findings and business recommendations.
+
+  - [`3.1_dashboard/`](./3_executive_report/3.1_dashboard)  
+    Includes Power BI or Excel dashboards created for stakeholder presentation.
+
+  - [`3.2_dashboard_overview_screenshots/`](./3_executive_report/3.2_dashboard_overview_screenshots)  
+    Contains static screenshots or preview images from the dashboard for GitHub visibility.
+
+  - [`3.3_insights_and_recommendations/`](./3_executive_report/3.3_insights_and_recommendations)  
+    Final PDF report containing executive summary, data-backed insights, and actionable recommendations.
