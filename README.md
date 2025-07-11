@@ -116,3 +116,23 @@ This project integrates a mix of analytical tools and business techniques to unc
    - Synthesized key findings into concise insights and strategic recommendations  
    - Compiled and formatted the final report in `/3_executive_report/3.3_insights_and_recommendations/`  
    - Ensured alignment with stakeholder objectives and clarity for decision‑making
+  
+  ## 📊 7.  Dashboard Highlights
+
+- **Key Performance Metrics**  
+  - **Average Delivery Speed:** 8.23 km/h  
+  - **Average Delivery Distance:** 14.76 km  
+  - **Average Idle Time Before Pickup:** 9.93 mins  
+  - **Average Delivery Time:** 142.12 mins  
+
+- **Traffic & Weather Impact**  
+  Under **Jam** traffic with **cloudy** or **stormy** conditions, median delivery times spike to **180 mins**, while even **High** traffic in poor weather sustains durations above **135 mins**—underscoring the need for dynamic routing and weather‑aware scheduling.
+
+- **Area‑Level Delivery Efficiency**  
+  **Semi‑Urban** zones trail other regions significantly, with average delivery times nearing **230 mins**, compared to **120 mins** in metropolitan and **110 mins** in urban areas—highlighting prime candidates for hub relocation or micro‑fulfillment centers.
+
+- **Idle‑Time Trends**  
+  Driver wait times peak at **10.5 mins** around **10 AM** and **2 PM**, suggesting bottlenecks in order batching and pickup coordination that could be alleviated with staggered dispatch windows.
+
+- **Category Consistency**  
+  Delivery durations by product category remain tightly clustered (131–134 mins), with **Cosmetics** at the high end (133.7 mins) and **Electronics** at the low end (131.9 mins), indicating that category‑specific handling times have minimal variance.
