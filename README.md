@@ -137,7 +137,7 @@ This project integrates a mix of analytical tools and business techniques to unc
 - **Category Consistency**  
   Delivery durations by product category remain tightly clustered (131–134 mins), with **Cosmetics** at the high end (133.7 mins) and **Electronics** at the low end (131.9 mins), indicating that category‑specific handling times have minimal variance.
 
-## 🔍 8. Insights & Recommendations 🔍
+## 🔍 8. Insights & Recommendations 
 
 ### 🔑 Key Insights
 
