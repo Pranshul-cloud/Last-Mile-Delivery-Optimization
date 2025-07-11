@@ -152,10 +152,18 @@ This project integrates a mix of analytical tools and business techniques to unc
 - **Weather & Traffic Impact:** Under **cloudy or stormy** conditions combined with heavy traffic, delivery times spike to **180 mins**, highlighting the need for adaptive routing.  
 - **Idle‑Time Peaks:** Agent wait times exceed **10.5 mins** around **10 AM** and **2 PM**, revealing scheduling and pickup coordination gaps.  
 
-### 💡 High‑Level Recommendations
+### 💡 High‑Level Recommendations (with Estimated Impact)
 
-- **Optimize Semi‑Urban Routing:** Perform detailed route and hub placement analysis; consider deploying micro‑fulfillment hubs in delay‑heavy zones and re‑cluster delivery areas.  
-- **Implement Weather‑Aware Dispatch:** Integrate live weather and traffic feeds into routing algorithms; define fallback routes and build buffer times into ETA models.  
-- **Stagger Pickup Scheduling:** Introduce dynamic driver assignment tied to order volume trends and staggered pickup slots to reduce mid‑day idle peaks.  
+- **Optimize Semi‑Urban Routing**  
+  Perform detailed route and hub placement analysis; deploy micro‑fulfillment hubs in delay-heavy zones and re-cluster delivery areas.  
+  → _Estimated Impact_: Reduce delivery time in semi-urban zones by **25–35%** (~50–70 mins saved per order), potentially increasing same-day fulfillment rate by **18–22%**.
+
+- **Implement Weather‑Aware Dispatch**  
+  Integrate live weather and traffic feeds into routing algorithms; define fallback routes and buffer times in ETA models.  
+  → _Estimated Impact_: Reduce weather-related delays by **15–20%**, improving ETA accuracy by **10–12%** and enhancing customer trust.
+
+- **Stagger Pickup Scheduling**  
+  Introduce dynamic driver assignment based on order surge trends and staggered pickup slots to flatten idle-time spikes.  
+  → _Estimated Impact_: Lower peak idle time by **30–40%**, increasing fleet utilization efficiency and reducing cost-per-delivery by **8–10%**.
 
 _For full details, see [Insights & Recommendations](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.3_Insights_Recommendations_LastMileOptimization.pdf%20(1).pdf)_
