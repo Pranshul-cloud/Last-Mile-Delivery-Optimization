@@ -89,5 +89,5 @@ This project integrates a mix of analytical tools and business techniques to unc
   - [`3.2_dashboard_overview_screenshots/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.2_dashboard_full_view.png)  
     Contains static screenshots or preview images from the dashboard for GitHub visibility.
 
-  - [`3.3_insights_and_recommendations/`](./3_executive_report/3.3_insights_and_recommendations)  
+  - [`3.3_insights_and_recommendations/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.3_Insights_Recommendations_LastMileOptimization.pdf%20(1).pdf)  
     Final PDF report containing executive summary, data-backed insights, and actionable recommendations.
