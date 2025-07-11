@@ -98,7 +98,7 @@ This project integrates a mix of analytical tools and business techniques to unc
 1. **Data Collection & Preparation**  
    - Ingested raw delivery, traffic, weather, and agent datasets  
    - Addressed missing values, standardized zone naming, and synchronized timestamps  
-   - Cleaned files are archived in `/1_data/1.1_clean_data/`(1.1_clean_data/)
+   - Cleaned files are archived in `/1_data/1.1_clean_data/`
 2. **Business Problem Framing**  
    - Articulated eight high‑value questions focusing on delay sources, agent dynamics, and environmental effects  
    - Documentation of each question resides in `/2_sql_analysis/2.1_business_questions/`
