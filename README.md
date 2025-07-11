@@ -73,7 +73,7 @@ This project integrates a mix of analytical tools and business techniques to unc
 - [`2_sql_analysis/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/02_sql_analysis)  
   All query logic and documentation used to derive insights from the dataset.
 
-  - [`2.1_business_questions/`](./2_sql_analysis/2.1_business_questions)  
+  - [`2.1_business_questions/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/02_sql_analysis/2.1_Last_Mile_Delivery_Optimization_Quections.pdf.pdf)  
     PDF  file outlining business problems related to delivery delays, agent performance, traffic impact, etc.
 
   - [`2.2_sql_queries/`](./2_sql_analysis/2.2_sql_queries)  
