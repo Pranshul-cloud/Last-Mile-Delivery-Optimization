@@ -74,7 +74,7 @@ This project integrates a mix of analytical tools and business techniques to unc
   All query logic and documentation used to derive insights from the dataset.
 
   - [`2.1_business_questions/`](./2_sql_analysis/2.1_business_questions)  
-    PDF or Markdown file outlining business problems related to delivery delays, agent performance, traffic impact, etc.
+    PDF  file outlining business problems related to delivery delays, agent performance, traffic impact, etc.
 
   - [`2.2_sql_queries/`](./2_sql_analysis/2.2_sql_queries)  
     SQL files solving each business question through joins, aggregations, filters, and time-based analysis.
@@ -84,7 +84,7 @@ This project integrates a mix of analytical tools and business techniques to unc
   Final outputs and reporting files to communicate findings and business recommendations.
 
   - [`3.1_dashboard/`](./3_executive_report/3.1_dashboard)  
-    Includes Power BI or Excel dashboards created for stakeholder presentation.
+    Includes Power BI  dashboards created for stakeholder presentation.
 
   - [`3.2_dashboard_overview_screenshots/`](./3_executive_report/3.2_dashboard_overview_screenshots)  
     Contains static screenshots or preview images from the dashboard for GitHub visibility.
