@@ -60,43 +60,31 @@ This project integrates a mix of analytical tools and business techniques to unc
 
 ---
 
-## 📁  5.  Project Structure
+## 📁 5. Project Structure
 
-## 📁 1_data/
+Organized into three main components: datasets, SQL analysis, and final executive reporting.
 
-Contains all datasets used in the analysis, organized into cleaned and raw subfolders.  
-Each subfolder includes a 100-row sample file for preview. Full datasets are stored but not viewable directly on GitHub due to size.
+📁 1_data/  
+Contains all datasets used in the analysis. Cleaned and raw data are stored separately.  
+Includes 100-row sample files for preview. Full datasets are stored but may not preview on GitHub due to size.
 
-### 📂 1.1_clean_data/
 - `last_mile_delivery_cleaned.csv`: Full cleaned dataset (not previewable on GitHub)  
-- [`1.1_sample_cleaned.csv`](./1_data/1.1_clean_data/1.1_sample_cleaned.csv): 100-row sample of cleaned data for quick inspection
-
-### 📂 1.2_raw_data/
+- [`1.1_sample_cleaned.csv`](./1_data/1.1_clean_data/1.1_sample_cleaned.csv): Sample of cleaned data  
 - `last_mile_delivery_raw.csv`: Full raw dataset (not previewable on GitHub)  
-- [`1.2_sample_raw.csv`](./1_data/1.2_raw_data/1.2_sample_raw.csv): 100-row sample of raw data for structure and preview
+- [`1.2_sample_raw.csv`](./1_data/1.2_raw_data/1.2_sample_raw.csv): Sample of raw data  
 
+📁 2_sql_analysis/  
+Contains business question definitions and all SQL queries used to explore the data.
 
-- [`2_sql_analysis/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/02_sql_analysis)  
-  All query logic and documentation used to derive insights from the dataset.
+- `2.1_business_questions/`: PDF listing key business problems (e.g., traffic, agent delays, zone inefficiencies)  
+- `2.2_sql_queries/`: Final SQL queries used to generate insights via joins, filters, and aggregations
 
-  - [`2.1_business_questions/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/02_sql_analysis/2.1_Last_Mile_Delivery_Optimization_Quections.pdf.pdf)  
-    PDF  file outlining business problems related to delivery delays, agent performance, traffic impact, etc.
+📁 3_executive_report/  
+Includes all reporting deliverables and visuals created for stakeholders.
 
-  - [`2.2_sql_queries/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/02_sql_analysis/2.2_last_mile_delivery_optimization_case_study.sql)  
-    SQL files solving each business question through joins, aggregations, filters, and time-based analysis.
-
-
-- [`3_executive_report/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/03_executive_report)  
-  Final outputs and reporting files to communicate findings and business recommendations.
-
-  - [`3.1_dashboard/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.1_last_mile_dashboard.pbix)  
-    Includes Power BI  dashboards created for stakeholder presentation.
-
-  - [`3.2_dashboard_overview_screenshots/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.2_dashboard_full_view.png)  
-    Contains static screenshots or preview images from the dashboard for GitHub visibility.
-
-  - [`3.3_insights_and_recommendations/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.3_Insights_Recommendations_LastMileOptimization.pdf%20(1).pdf)  
-    Final PDF report containing executive summary, data-backed insights, and actionable recommendations.
+- `3.1_dashboard/`: Power BI files used to build key delivery and performance visuals  
+- `3.2_dashboard_overview_screenshots/`: Static dashboard screenshots for quick GitHub preview  
+- `3.3_insights_and_recommendations/`: Final PDF report with executive summary, insights, and business recommendations
     
 ---
 
