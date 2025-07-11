@@ -95,8 +95,8 @@ This project integrates a mix of analytical tools and business techniques to unc
 
  ## 🛠️ 6.  Implementation Approach
 
-1. **Data Collection & Preparation**  
-   - Ingested raw delivery, traffic, weather, and agent datasets  
+1. **Data Collection & Preparation**
+   - Imported initial delivery dataset from [Kaggle](Kaggle Link: Last-Mile Delivery Dataset](https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset)  
    - Addressed missing values, standardized zone naming, and synchronized timestamps  
    - Cleaned files are archived in `/1_data/1.1_clean_data/`
 2. **Business Problem Framing**  
