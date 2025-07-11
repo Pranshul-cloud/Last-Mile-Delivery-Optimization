@@ -77,7 +77,7 @@ Includes 100-row sample files for preview. Full datasets are stored but may not 
 Contains business question definitions and all SQL queries used to explore the data.
 
 - [`2.1_business_questions/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/02_sql_analysis/2.1_Last_Mile_Delivery_Optimization_Quections.pdf.pdf): PDF listing key business problems (e.g., traffic, agent delays, zone inefficiencies)  
-- [`2.2_sql_queries/`](./2_sql_analysis/2.2_sql_queries/): Final SQL queries used to generate insights via joins, filters, and aggregations
+- [`2.2_sql_queries/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/02_sql_analysis/2.2_last_mile_delivery_optimization_case_study.sql): Final SQL queries used to generate insights via joins, filters, and aggregations
 
 📁 [`3_executive_report/`](./3_executive_report/)  
 Includes all reporting deliverables and visuals created for stakeholders.
