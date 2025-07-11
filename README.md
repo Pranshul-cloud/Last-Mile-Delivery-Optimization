@@ -62,14 +62,18 @@ This project integrates a mix of analytical tools and business techniques to unc
 
 ## 📁  5.  Project Structure
 
-- [`1_data/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/01_data)  
-  Contains all datasets used in the analysis, separated into raw and cleaned versions.
+## 📁 1_data/
 
-  - [`1.1_clean_data/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/01_data/1.1_last_mile_delivery_cleaned.csv)  
-    Includes cleaned and pre-processed data files ready for analysis.
+Contains all datasets used in the analysis, organized into cleaned and raw subfolders.  
+Each subfolder includes a 100-row sample file for preview. Full datasets are stored but not viewable directly on GitHub due to size.
 
-  - [`1.2_raw_data/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/01_data/1.2_last_mile_delivery_raw.csv)  
-    Holds original unprocessed delivery, agent, and location data (for transparency and reproducibility).
+### 📂 1.1_clean_data/
+- `last_mile_delivery_cleaned.csv`: Full cleaned dataset (not previewable on GitHub)  
+- [`1.1_sample_cleaned.csv`](./1_data/1.1_clean_data/1.1_sample_cleaned.csv): 100-row sample of cleaned data for quick inspection
+
+### 📂 1.2_raw_data/
+- `last_mile_delivery_raw.csv`: Full raw dataset (not previewable on GitHub)  
+- [`1.2_sample_raw.csv`](./1_data/1.2_raw_data/1.2_sample_raw.csv): 100-row sample of raw data for structure and preview
 
 
 - [`2_sql_analysis/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/02_sql_analysis)  
