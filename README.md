@@ -58,6 +58,8 @@ This project integrates a mix of analytical tools and business techniques to unc
 - **Microsoft Word** – Recommendation report and business documentation  
 - **Business Thinking** – Strategic diagnosis of cost drivers and operational inefficiencies
 
+---
+
 ## 📁  5.  Project Structure
 
 - [`1_data/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/01_data)  
