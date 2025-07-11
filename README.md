@@ -62,8 +62,6 @@ This project integrates a mix of analytical tools and business techniques to unc
 
 ## 📁 5. Project Structure
 
-## 📁 5. Project Structure
-
 Organized into three main components: datasets, SQL analysis, and final executive reporting.
 
 📁 [`1_data/`](./1_data/)  
@@ -71,7 +69,7 @@ Contains all datasets used in the analysis. Cleaned and raw data are stored sepa
 Includes 100-row sample files for preview. Full datasets are stored but may not preview on GitHub due to size.
 
 - `last_mile_delivery_cleaned.csv`: Full cleaned dataset (not previewable on GitHub)  
-- [`1.1_sample_cleaned.csv`](./1_data/1.1_clean_data/1.1_sample_cleaned.csv): Sample of cleaned data  
+- [`1.1_sample_cleaned.csv`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/01_data/1.1_last_mile_delivery_cleaned_sample.csv): Sample of cleaned data  
 - `last_mile_delivery_raw.csv`: Full raw dataset (not previewable on GitHub)  
 - [`1.2_sample_raw.csv`](./1_data/1.2_raw_data/1.2_sample_raw.csv): Sample of raw data  
 
