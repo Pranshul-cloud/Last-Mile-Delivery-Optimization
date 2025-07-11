@@ -151,4 +151,4 @@ This project integrates a mix of analytical tools and business techniques to unc
 - **Implement Weather‑Aware Dispatch:** Integrate live weather and traffic feeds into routing algorithms; define fallback routes and build buffer times into ETA models.  
 - **Stagger Pickup Scheduling:** Introduce dynamic driver assignment tied to order volume trends and staggered pickup slots to reduce mid‑day idle peaks.  
 
-_For full details, see [Insights & Recommendations](3_executive_report/3.3_insights_and_recommendations/)_
+_For full details, see [Insights & Recommendations](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.3_Insights_Recommendations_LastMileOptimization.pdf%20(1).pdf)_
