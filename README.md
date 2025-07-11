@@ -66,7 +66,7 @@ This project integrates a mix of analytical tools and business techniques to unc
   - [`1.1_clean_data/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/01_data/1.1_last_mile_delivery_cleaned.csv)  
     Includes cleaned and pre-processed data files ready for analysis.
 
-  - [`1.2_raw_data/`](./1_data/1.2_raw_data)  
+  - [`1.2_raw_data/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/01_data/1.2_last_mile_delivery_raw.csv)  
     Holds original unprocessed delivery, agent, and location data (for transparency and reproducibility).
 
 
