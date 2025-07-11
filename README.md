@@ -136,3 +136,19 @@ This project integrates a mix of analytical tools and business techniques to unc
 
 - **Category Consistency**  
   Delivery durations by product category remain tightly clustered (131–134 mins), with **Cosmetics** at the high end (133.7 mins) and **Electronics** at the low end (131.9 mins), indicating that category‑specific handling times have minimal variance.
+
+## 🔍 8. Insights & Recommendations 🔍
+
+### 🔑 Key Insights
+
+- **Semi‑Urban Delays:** Deliveries in semi‑urban areas average over **200 mins**, vs. 110 mins in urban and 130 mins in metro regions, indicating significant route and hub inefficiencies.  
+- **Weather & Traffic Impact:** Under **cloudy or stormy** conditions combined with heavy traffic, delivery times spike to **180 mins**, highlighting the need for adaptive routing.  
+- **Idle‑Time Peaks:** Agent wait times exceed **10.5 mins** around **10 AM** and **2 PM**, revealing scheduling and pickup coordination gaps.  
+
+### 💡 High‑Level Recommendations
+
+- **Optimize Semi‑Urban Routing:** Perform detailed route and hub placement analysis; consider deploying micro‑fulfillment hubs in delay‑heavy zones and re‑cluster delivery areas.  
+- **Implement Weather‑Aware Dispatch:** Integrate live weather and traffic feeds into routing algorithms; define fallback routes and build buffer times into ETA models.  
+- **Stagger Pickup Scheduling:** Introduce dynamic driver assignment tied to order volume trends and staggered pickup slots to reduce mid‑day idle peaks.  
+
+_For full details, see [Insights & Recommendations](3_executive_report/3.3_insights_and_recommendations/)_
