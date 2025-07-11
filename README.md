@@ -62,9 +62,11 @@ This project integrates a mix of analytical tools and business techniques to unc
 
 ## 📁 5. Project Structure
 
+## 📁 5. Project Structure
+
 Organized into three main components: datasets, SQL analysis, and final executive reporting.
 
-📁 1_data/  
+📁 [`1_data/`](./1_data/)  
 Contains all datasets used in the analysis. Cleaned and raw data are stored separately.  
 Includes 100-row sample files for preview. Full datasets are stored but may not preview on GitHub due to size.
 
@@ -73,18 +75,18 @@ Includes 100-row sample files for preview. Full datasets are stored but may not 
 - `last_mile_delivery_raw.csv`: Full raw dataset (not previewable on GitHub)  
 - [`1.2_sample_raw.csv`](./1_data/1.2_raw_data/1.2_sample_raw.csv): Sample of raw data  
 
-📁 2_sql_analysis/  
+📁 [`2_sql_analysis/`](./2_sql_analysis/)  
 Contains business question definitions and all SQL queries used to explore the data.
 
-- `2.1_business_questions/`: PDF listing key business problems (e.g., traffic, agent delays, zone inefficiencies)  
-- `2.2_sql_queries/`: Final SQL queries used to generate insights via joins, filters, and aggregations
+- [`2.1_business_questions/`](./2_sql_analysis/2.1_business_questions/): PDF listing key business problems (e.g., traffic, agent delays, zone inefficiencies)  
+- [`2.2_sql_queries/`](./2_sql_analysis/2.2_sql_queries/): Final SQL queries used to generate insights via joins, filters, and aggregations
 
-📁 3_executive_report/  
+📁 [`3_executive_report/`](./3_executive_report/)  
 Includes all reporting deliverables and visuals created for stakeholders.
 
-- `3.1_dashboard/`: Power BI files used to build key delivery and performance visuals  
-- `3.2_dashboard_overview_screenshots/`: Static dashboard screenshots for quick GitHub preview  
-- `3.3_insights_and_recommendations/`: Final PDF report with executive summary, insights, and business recommendations
+- [`3.1_dashboard/`](./3_executive_report/3.1_dashboard/): Power BI files used to build key delivery and performance visuals  
+- [`3.2_dashboard_overview_screenshots/`](./3_executive_report/3.2_dashboard_overview_screenshots/): Static dashboard screenshots for quick GitHub preview  
+- [`3.3_insights_and_recommendations/`](./3_executive_report/3.3_insights_and_recommendations/): Final PDF report with executive summary, insights, and business recommendations
     
 ---
 
