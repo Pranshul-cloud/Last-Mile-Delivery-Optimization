@@ -60,7 +60,7 @@ This project integrates a mix of analytical tools and business techniques to unc
 
 - ## 📁 Project Structure
 
-- [`1_data/`](./1_data)  
+- [`1_data/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/01_data)  
   Contains all datasets used in the analysis, separated into raw and cleaned versions.
 
   - [`1.1_clean_data/`](./1_data/1.1_clean_data)  
