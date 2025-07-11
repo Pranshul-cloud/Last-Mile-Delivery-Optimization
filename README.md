@@ -71,7 +71,7 @@ Includes 100-row sample files for preview. Full datasets are stored but may not 
 - `last_mile_delivery_cleaned.csv`: Full cleaned dataset (not previewable on GitHub)  
 - [`1.1_sample_cleaned.csv`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/01_data/1.1_last_mile_delivery_cleaned_sample.csv): Sample of cleaned data  
 - `last_mile_delivery_raw.csv`: Full raw dataset (not previewable on GitHub)  
-- [`1.2_sample_raw.csv`](./1_data/1.2_raw_data/1.2_sample_raw.csv): Sample of raw data  
+- [`1.2_sample_raw.csv`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/01_data/1.2_last_mile_delivery_raw_sample.csv): Sample of raw data  
 
 📁 [`2_sql_analysis/`](./2_sql_analysis/)  
 Contains business question definitions and all SQL queries used to explore the data.
