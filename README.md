@@ -80,7 +80,7 @@ This project integrates a mix of analytical tools and business techniques to unc
     SQL files solving each business question through joins, aggregations, filters, and time-based analysis.
 
 
-- [`3_executive_report/`](./3_executive_report)  
+- [`3_executive_report/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/03_executive_report)  
   Final outputs and reporting files to communicate findings and business recommendations.
 
   - [`3.1_dashboard/`](./3_executive_report/3.1_dashboard)  
