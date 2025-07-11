@@ -93,7 +93,8 @@ This project integrates a mix of analytical tools and business techniques to unc
 
   - [`3.3_insights_and_recommendations/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.3_Insights_Recommendations_LastMileOptimization.pdf%20(1).pdf)  
     Final PDF report containing executive summary, data-backed insights, and actionable recommendations.
-
+    
+---
 
  ## 🛠️ 6.  Implementation Approach
 
@@ -118,6 +119,8 @@ This project integrates a mix of analytical tools and business techniques to unc
    - Synthesized key findings into concise insights and strategic recommendations  
    - Compiled and formatted the final report in `/3_executive_report/3.3_insights_and_recommendations/`  
    - Ensured alignment with stakeholder objectives and clarity for decision‑making
+
+---
   
   ## 📊 7.  Dashboard Highlights
 
@@ -138,6 +141,8 @@ This project integrates a mix of analytical tools and business techniques to unc
 
 - **Category Consistency**  
   Delivery durations by product category remain tightly clustered (131–134 mins), with **Cosmetics** at the high end (133.7 mins) and **Electronics** at the low end (131.9 mins), indicating that category‑specific handling times have minimal variance.
+
+---
 
 ## 🔍 8. Insights & Recommendations 
 
