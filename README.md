@@ -91,3 +91,24 @@ This project integrates a mix of analytical tools and business techniques to unc
 
   - [`3.3_insights_and_recommendations/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.3_Insights_Recommendations_LastMileOptimization.pdf%20(1).pdf)  
     Final PDF report containing executive summary, data-backed insights, and actionable recommendations.
+
+
+    ## 🛠️ Implementation Approach
+
+1. **Data Collection & Preparation**  
+   - Ingested raw delivery, traffic, weather, and agent datasets  
+   - Addressed missing values, standardized zone naming, and synchronized timestamps  
+   - Cleaned files are archived in `/1_data/1.1_clean_data/`
+
+2. **Business Problem Framing**  
+   - Articulated eight high‑value questions focusing on delay sources, agent dynamics, and environmental effects  
+   - Documentation of each question resides in `/2_sql_analysis/2.1_business_questions/`
+
+3. **SQL Analysis**  
+   - Developed and optimized SQL scripts to answer all business questions, handling nulls and complex joins  
+   - Stored final queries in `/2_sql_analysis/2.2_sql_queries/`
+
+4. **Prioritization & Visualization**  
+   - Selected four questions with the greatest business impact and stakeholder relevance (e.g., semi‑urban delays, traffic + weather effects, idle‑time peaks)  
+   - Generated supporting charts and tables for delivery duration, idle‑time trends, and zone‑level comparisons  
+   - Dashboard source files and exported visuals are available in `/3_executive_report/3.1_dashboard/`
