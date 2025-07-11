@@ -73,7 +73,7 @@ Includes 100-row sample files for preview. Full datasets are stored but may not 
 - `last_mile_delivery_raw.csv`: Full raw dataset (not previewable on GitHub)  
 - [`1.2_sample_raw.csv`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/01_data/1.2_last_mile_delivery_raw_sample.csv): Sample of raw data  
 
-📁 [`2_sql_analysis/`](./2_sql_analysis/)  
+📁 [`2_sql_analysis/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/02_sql_analysis)  
 Contains business question definitions and all SQL queries used to explore the data.
 
 - [`2.1_business_questions/`](./2_sql_analysis/2.1_business_questions/): PDF listing key business problems (e.g., traffic, agent delays, zone inefficiencies)  
