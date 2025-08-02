@@ -87,7 +87,7 @@ Includes all reporting deliverables and visuals created for stakeholders.
 - [`3.3_insights_and_recommendations/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.3_Insights_Recommendations_LastMileOptimization.pdf%20(1).pdf): Final PDF report with executive summary, insights, and business recommendations
 
 ---
-   ![q](https://github.com/Pranshul-cloud/FMCG-Sales-Profit-Performance-Dashboard/blob/main/FMCG_Sales_Daashboard.png) 
+   ![q](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.2_dashboard_full_view.png) 
 ---
 
  ## 🛠️ 6.  Implementation Approach
