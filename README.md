@@ -114,7 +114,7 @@ Includes all reporting deliverables and visuals created for stakeholders.
 
 ---
   
-  ## 📊 7.   ## Dashboard highligh:
+  ## 📊 7.  Dashboard highligh:
   ![q](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.2_dashboard_full_view.png) 
 
 
