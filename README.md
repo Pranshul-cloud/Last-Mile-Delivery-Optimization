@@ -114,9 +114,10 @@ Includes all reporting deliverables and visuals created for stakeholders.
 
 ---
   
-  ## 📊 7.     ![q](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.2_dashboard_full_view.png) 
+  ## 📊 7.   ## Dashboard highligh:
+  ![q](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.2_dashboard_full_view.png) 
 
-  ## Dashboard highligh:
+
 
 - **Key Performance Metrics**  
   - **Average Delivery Speed:** 8.23 km/h  
