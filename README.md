@@ -6,7 +6,7 @@
 
 ## 1. Problem Statement
 
-Last-mile delivery is the most expensive and operationally complex segment of the logistics chain. This project addresses:
+**Last-mile delivery is the most expensive and operationally complex segment of the logistics chain. This project addresses:**
 
 - Rising delivery costs and inconsistent efficiency across zones and riders  
 - Unclear business impact, though initial indicators suggest high cost leakage and potential for optimization
@@ -15,7 +15,7 @@ Last-mile delivery is the most expensive and operationally complex segment of th
 
 ##  2. Business Objectives
 
-This analysis aims to deliver actionable improvements in last-mile operations. The core goals are:
+**This analysis aims to deliver actionable improvements in last-mile operations. The core goals are:**
 
 - Reduce average delivery time across all orders  
 - Decrease delivery cost per order through operational efficiency  
@@ -27,7 +27,7 @@ This analysis aims to deliver actionable improvements in last-mile operations. T
 
 ### Primary Dataset:
 
-This project uses a structured delivery operations dataset that captures real-time delivery metadata and rider logistics.
+**This project uses a structured delivery operations dataset that captures real-time delivery metadata and rider logistics.**
 
 **Key Columns:**
 
@@ -43,14 +43,14 @@ This project uses a structured delivery operations dataset that captures real-ti
 
 ### Data Source:
 
-- Publicly available dataset from **Kaggle**  
+- **Publicly available dataset from** **Kaggle**  
 - [Kaggle Link: Last-Mile Delivery Dataset](https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset)
 
 ---
 
 ##  4. Tools and Skills Used
 
-This project integrates a mix of analytical tools and business techniques to uncover insights:
+**This project integrates a mix of analytical tools and business techniques to uncover insights:**
 
 - **Excel** – Data cleaning and creation of derived metrics through calculated fields  
 - **SQL** – Data analysis and performance aggregation  
@@ -62,7 +62,7 @@ This project integrates a mix of analytical tools and business techniques to unc
 
 ##  5. Project Structure
 
-Organized into three main components: datasets, SQL analysis, and final executive reporting.
+**Organized into three main components: datasets, SQL analysis, and final executive reporting.**
 
  [`1_data/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/01_data)  
 Contains all datasets used in the analysis. Cleaned and raw data are stored separately.  
