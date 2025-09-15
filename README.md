@@ -1,10 +1,10 @@
-# 📦 Last-Mile Delivery Optimization – Business Cost Reduction Project
+#  Last-Mile Delivery Optimization – Business Cost Reduction Project
 
 ### A data-driven initiative to reduce last-mile delivery costs and delays by improving routing, rider utilization, and zone performance using real-world delivery data.
 
 ---
 
-## ❓ 1. Problem Statement
+## 1. Problem Statement
 
 Last-mile delivery is the most expensive and operationally complex segment of the logistics chain. This project addresses:
 
@@ -13,7 +13,7 @@ Last-mile delivery is the most expensive and operationally complex segment of th
 
 ---
 
-## 🎯 2. Business Objectives
+##  2. Business Objectives
 
 This analysis aims to deliver actionable improvements in last-mile operations. The core goals are:
 
@@ -23,7 +23,7 @@ This analysis aims to deliver actionable improvements in last-mile operations. T
 
 ---
 
-## 📂 3. Dataset Overview
+##  3. Dataset Overview
 
 ### Primary Dataset:
 
@@ -48,7 +48,7 @@ This project uses a structured delivery operations dataset that captures real-ti
 
 ---
 
-## 🛠️ 4. Tools and Skills Used
+##  4. Tools and Skills Used
 
 This project integrates a mix of analytical tools and business techniques to uncover insights:
 
@@ -60,11 +60,11 @@ This project integrates a mix of analytical tools and business techniques to unc
 
 ---
 
-## 📁 5. Project Structure
+##  5. Project Structure
 
 Organized into three main components: datasets, SQL analysis, and final executive reporting.
 
-📁 [`1_data/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/01_data)  
+ [`1_data/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/01_data)  
 Contains all datasets used in the analysis. Cleaned and raw data are stored separately.  
 Includes 100-row sample files for preview. Full datasets are stored but may not preview on GitHub due to size.
 
@@ -73,13 +73,13 @@ Includes 100-row sample files for preview. Full datasets are stored but may not 
 - `last_mile_delivery_raw.csv`: Full raw dataset (not previewable on GitHub)  
 - [`1.2_sample_raw.csv`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/01_data/1.2_last_mile_delivery_raw_sample.csv): Sample of raw data  
 
-📁 [`2_sql_analysis/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/02_sql_analysis)  
+ [`2_sql_analysis/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/02_sql_analysis)  
 Contains business question definitions and all SQL queries used to explore the data.
 
 - [`2.1_business_questions/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/02_sql_analysis/2.1_Last_Mile_Delivery_Optimization_Quections.pdf.pdf): PDF listing key business problems (e.g., traffic, agent delays, zone inefficiencies)  
 - [`2.2_sql_queries/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/02_sql_analysis/2.2_last_mile_delivery_optimization_case_study.sql): Final SQL queries used to generate insights via joins, filters, and aggregations
 
-📁 [`3_executive_report/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/03_executive_report)  
+ [`3_executive_report/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/tree/main/03_executive_report)  
 Includes all reporting deliverables and visuals created for stakeholders.
 
 - [`3.1_dashboard/`](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.1_last_mile_dashboard.pbix): Power BI files used to build key delivery and performance visuals. (Not previewable on GitHub — available for download and offline viewing in Power BI Desktop)_
@@ -88,7 +88,7 @@ Includes all reporting deliverables and visuals created for stakeholders.
  
 ---
 
- ## 🛠️ 6.  Implementation Approach
+ ##  6.  Implementation Approach
 
 1. **Data Collection & Preparation**
    - Imported initial delivery dataset from [Kaggle]
@@ -114,7 +114,7 @@ Includes all reporting deliverables and visuals created for stakeholders.
 
 ---
   
-  ## 📊 7.  Dashboard highligh:
+  ##  7.  Dashboard highligh:
   ![q](https://github.com/Pranshul-cloud/Last-Mile-Delivery-Optimization/blob/main/03_executive_report/3.2_dashboard_full_view.png) 
 
 
@@ -139,15 +139,15 @@ Includes all reporting deliverables and visuals created for stakeholders.
 
 ---
 
-## 🔍 8. Insights & Recommendations 
+##  8. Insights & Recommendations 
 
-### 🔑 Key Insights
+###  Key Insights
 
 - **Semi‑Urban Delays:** Deliveries in semi‑urban areas average over **200 mins**, vs. 110 mins in urban and 130 mins in metro regions, indicating significant route and hub inefficiencies.  
 - **Weather & Traffic Impact:** Under **cloudy or stormy** conditions combined with heavy traffic, delivery times spike to **180 mins**, highlighting the need for adaptive routing.  
 - **Idle‑Time Peaks:** Agent wait times exceed **10.5 mins** around **10 AM** and **2 PM**, revealing scheduling and pickup coordination gaps.  
 
-### 💡 High‑Level Recommendations (with Estimated Impact)
+###  High‑Level Recommendations (with Estimated Impact)
 
 - **Optimize Semi‑Urban Routing**  
   Perform detailed route and hub placement analysis; deploy micro‑fulfillment hubs in delay-heavy zones and re-cluster delivery areas.  
